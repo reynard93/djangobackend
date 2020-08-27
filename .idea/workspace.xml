@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9404d83b-5646-4a65-b906-4f17659838d0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectworkmate/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectworkmate/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectworkmate/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectworkmate/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectworkmate/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react_frontend/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react_frontend/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react_frontend/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react_frontend/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react_frontend/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react_frontend/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react_frontend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react_frontend/src/components/Timesheet/Timesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react_frontend/src/components/Timesheet/Timesheet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react_frontend/src/components/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react_frontend/static/frontend/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react_frontend/templates/frontend/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react_frontend/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react_frontend/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react_frontend/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react_frontend/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workmateapp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workmateapp/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workmateapp/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workmateapp/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workmateapp/migrations/0002_employee_dogg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workmateapp/migrations/0003_remove_employee_dogg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workmateapp/migrations/0004_job.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workmateapp/migrations/0005_auto_20200826_2332.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workmateapp/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workmateapp/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workmateapp/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workmateapp/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workmateapp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workmateapp/viewsets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algo-react-demo/src/algo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algo-react-demo/src/utility/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algoAaron/decryptEncrytedString.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algoAaron/differentPathsToEnd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algoAaron/fewestCoins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algoAaron/filterBasedOnArrayProperties.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algoAaron/firstAndLastIndexInSortedArray.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algoAaron/firstMissingPositive.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algoAaron/generateValidParens.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algoAaron/kthLargest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algoAaron/maxAreaOfSquare.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algoAaron/pluckValuesIntoCategories.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algoAaron/reconstructBST.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algoAaron/searchWordInMatrix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algoAaron/spiralOrderMatrix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algoAaron/splitArrayWithEqualSum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algoAaron/sum2LinkedList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algoAaron/verticalOrderTraversal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netflix-clone/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../netflix-clone/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netflix-clone/src/components/card/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../netflix-clone/src/components/card/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netflix-clone/src/components/header/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../netflix-clone/src/components/header/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netflix-clone/src/components/loading/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../netflix-clone/src/components/loading/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netflix-clone/src/components/loading/styles/loading.js" beforeDir="false" afterPath="$PROJECT_DIR$/../netflix-clone/src/components/loading/styles/loading.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netflix-clone/src/containers/browse.js" beforeDir="false" afterPath="$PROJECT_DIR$/../netflix-clone/src/containers/browse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netflix-clone/src/containers/jumbotron.js" beforeDir="false" afterPath="$PROJECT_DIR$/../netflix-clone/src/containers/jumbotron.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netflix-clone/src/containers/profiles.js" beforeDir="false" afterPath="$PROJECT_DIR$/../netflix-clone/src/containers/profiles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netflix-clone/src/fixtures/jumbo.json" beforeDir="false" afterPath="$PROJECT_DIR$/../netflix-clone/src/fixtures/jumbo.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netflix-clone/src/images/films/children/despicable-me/large.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../netflix-clone/src/images/films/children/despicable-me/large.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netflix-clone/src/images/films/children/despicable-me/small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../netflix-clone/src/images/films/children/despicable-me/small.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netflix-clone/src/images/films/children/frozen/large.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../netflix-clone/src/images/films/children/frozen/large.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netflix-clone/src/images/films/children/frozen/small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../netflix-clone/src/images/films/children/frozen/small.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netflix-clone/src/images/films/children/hotel-transylvania/large.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../netflix-clone/src/images/films/children/hotel-transylvania/large.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netflix-clone/src/images/films/children/hotel-transylvania/small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../netflix-clone/src/images/films/children/hotel-transylvania/small.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netflix-clone/src/images/films/children/spirited-away/large.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../netflix-clone/src/images/films/children/spirited-away/large.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netflix-clone/src/images/films/children/spirited-away/small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../netflix-clone/src/images/films/children/spirited-away/small.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netflix-clone/src/images/films/children/up/large.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../netflix-clone/src/images/films/children/up/large.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../netflix-clone/src/images/films/children/up/small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../netflix-clone/src/images/films/children/up/small.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JupyterTrust" id="ff7c1369-4070-476c-82cb-e969bca73e0e" />
+  <component name="ProjectId" id="1gFrWUNSLtiSBLygHoLEFunxf2O" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/workmateapp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.oldviews">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="oldviews" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/workmateapp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/workmateapp/oldviews.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.oldviews" />
+        <item itemvalue="Python.manage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9404d83b-5646-4a65-b906-4f17659838d0" name="Default Changelist" comment="" />
+      <created>1597721214024</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597721214024</updated>
+      <workItem from="1597721215911" duration="285000" />
+      <workItem from="1597739733290" duration="11666000" />
+      <workItem from="1597815133682" duration="11389000" />
+      <workItem from="1597927081391" duration="8849000" />
+      <workItem from="1598324181155" duration="6605000" />
+      <workItem from="1598360121115" duration="9317000" />
+      <workItem from="1598381187662" duration="17457000" />
+      <workItem from="1598492337843" duration="26738000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-750" y="312" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597748825190">
+      <screen x="-1680" y="23" width="1680" height="1027" />
+    </state>
+    <state x="797" y="270" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1597741278143" />
+    <state x="-750" y="312" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.1057/-1680.23.1680.1027@-1680.23.1680.1027" timestamp="1597748825190" />
+    <state width="3604" height="478" key="GridCell.Tab.0.bottom" timestamp="1598498097787">
+      <screen x="0" y="23" width="3440" height="1360" />
+    </state>
+    <state width="3604" height="478" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.3440.1360@0.23.3440.1360" timestamp="1598498097787" />
+    <state width="1398" height="207" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1598234807379" />
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom/0.23.1680.1027/-1920.-123.1920.1057@0.23.1680.1027" timestamp="1597991867210" />
+    <state width="3604" height="478" key="GridCell.Tab.0.center" timestamp="1598498097785">
+      <screen x="0" y="23" width="3440" height="1360" />
+    </state>
+    <state width="3604" height="478" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.3440.1360@0.23.3440.1360" timestamp="1598498097785" />
+    <state width="1398" height="207" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1598234807378" />
+    <state width="1638" height="280" key="GridCell.Tab.0.center/0.23.1680.1027/-1920.-123.1920.1057@0.23.1680.1027" timestamp="1597991867208" />
+    <state width="3604" height="478" key="GridCell.Tab.0.left" timestamp="1598498097785">
+      <screen x="0" y="23" width="3440" height="1360" />
+    </state>
+    <state width="3604" height="478" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.3440.1360@0.23.3440.1360" timestamp="1598498097785" />
+    <state width="1398" height="207" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1598234807378" />
+    <state width="1638" height="280" key="GridCell.Tab.0.left/0.23.1680.1027/-1920.-123.1920.1057@0.23.1680.1027" timestamp="1597991867207" />
+    <state width="3604" height="478" key="GridCell.Tab.0.right" timestamp="1598498097786">
+      <screen x="0" y="23" width="3440" height="1360" />
+    </state>
+    <state width="3604" height="478" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.3440.1360@0.23.3440.1360" timestamp="1598498097786" />
+    <state width="1398" height="207" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1598234807379" />
+    <state width="1638" height="280" key="GridCell.Tab.0.right/0.23.1680.1027/-1920.-123.1920.1057@0.23.1680.1027" timestamp="1597991867209" />
+    <state width="3604" height="478" key="GridCell.Tab.1.bottom" timestamp="1598498097789">
+      <screen x="0" y="23" width="3440" height="1360" />
+    </state>
+    <state width="3604" height="478" key="GridCell.Tab.1.bottom/-1920.23.1920.1057/0.23.3440.1360@0.23.3440.1360" timestamp="1598498097789" />
+    <state width="3604" height="478" key="GridCell.Tab.1.center" timestamp="1598498097788">
+      <screen x="0" y="23" width="3440" height="1360" />
+    </state>
+    <state width="3604" height="478" key="GridCell.Tab.1.center/-1920.23.1920.1057/0.23.3440.1360@0.23.3440.1360" timestamp="1598498097788" />
+    <state width="3604" height="478" key="GridCell.Tab.1.left" timestamp="1598498097787">
+      <screen x="0" y="23" width="3440" height="1360" />
+    </state>
+    <state width="3604" height="478" key="GridCell.Tab.1.left/-1920.23.1920.1057/0.23.3440.1360@0.23.3440.1360" timestamp="1598498097787" />
+    <state width="3604" height="478" key="GridCell.Tab.1.right" timestamp="1598498097789">
+      <screen x="0" y="23" width="3440" height="1360" />
+    </state>
+    <state width="3604" height="478" key="GridCell.Tab.1.right/-1920.23.1920.1057/0.23.3440.1360@0.23.3440.1360" timestamp="1598498097789" />
+    <state width="324" height="551" key="HiddenNamespacesPopup" timestamp="1597843412626">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="324" height="551" key="HiddenNamespacesPopup/-1680.23.1680.1027/0.23.1920.1057@0.23.1920.1057" timestamp="1597843412626" />
+    <state width="243" height="457" key="HiddenNamespacesPopup/0.23.1440.877@0.23.1440.877" timestamp="1597744107316" />
+    <state x="2022" y="624" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598509689149">
+      <screen x="0" y="23" width="3440" height="1360" />
+    </state>
+    <state x="2022" y="624" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.23.1920.1057/0.23.3440.1360@0.23.3440.1360" timestamp="1598509689149" />
+    <state x="251" y="152" width="656" height="735" key="find.popup" timestamp="1598518287685">
+      <screen x="0" y="23" width="3440" height="1360" />
+    </state>
+    <state x="251" y="152" width="656" height="735" key="find.popup/-1920.23.1920.1057/0.23.3440.1360@0.23.3440.1360" timestamp="1598518287685" />
+    <state x="260" y="338" width="1201" height="907" key="search.everywhere.popup" timestamp="1598500263075">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state x="145" y="258" width="670" height="676" key="search.everywhere.popup/-1680.23.1680.1027/0.23.1920.1057@0.23.1920.1057" timestamp="1597843091865" />
+    <state x="260" y="338" width="1201" height="907" key="search.everywhere.popup/-1920.23.1920.1000/0.23.3440.1417@0.23.3440.1417" timestamp="1598500263075" />
+    <state x="260" y="325" width="1201" height="870" key="search.everywhere.popup/-1920.23.1920.1057/0.23.3440.1360@0.23.3440.1360" timestamp="1598360925523" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/project$oldviews.coverage" NAME="oldviews Coverage Results" MODIFIED="1598498091756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/workmateapp" />
+    <SUITE FILE_PATH="coverage/project$manage.coverage" NAME="manage Coverage Results" MODIFIED="1597991867193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
